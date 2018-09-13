@@ -18,7 +18,7 @@ Place the below somewhere in your shell startup script.
 eval "$(flatpak-alias sh)"
 ```
 
-Then put something like following in `~/.flatpak-aliases`:
+Then put something like this in `~/.flatpak-aliases`:
 
 ```toml
 # The alias's name; what you run in the shell
